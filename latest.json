@@ -1,13 +1,21 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-26T07:09:58.956Z",
-  "next_check_due_at": "2026-10-26T08:09:58.956Z",
+  "checked_at": "2026-10-26T08:09:28.000Z",
+  "next_check_due_at": "2026-10-26T09:09:28.000Z",
   "source_health": "partial",
   "status": "announced",
-  "summary_zh": "本次检查仍只核实到第三方转载的 Day 21 当天重置预告，未获得新的原帖完成确认或可靠执行时间。X 直接读取仍受限，不能据此断言没有新帖。",
+  "summary_zh": "Day 21 重置预告后出现实际到账反馈：PC Watch 的报道搜索索引称，记者本人账户约在北京时间10月26日14:00已应用重置。尚未核实到 Tibo 的新完成确认，不能据此确认所有账户均已到账；具体全局完成时间未知。",
   "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "PC Watch 记者在10月26日15:44日本时间发布的报道中称，本人环境约在日本时间15:00已应用重置，折合北京时间约14:00。这是单个账户的到账观察，不是全局完成确认。",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2151209.html",
+      "event_at": "2026-10-26T06:00:00Z",
+      "classification": "rollout_observed",
+      "evidence_quality": "indexed_firsthand_media_report",
+      "uncertainty": "仅搜索索引可读，文章全文直接读取失败；观察时间约数，不能代表全部账户或Tibo官方确认。"
+    },
     {
       "summary_zh": "Day 21 帖子被公开消息汇总站转引为当天重置预告；该帖发布于北京时间 10月26日13:21。作者所说的当天不能直接等同北京时间当天。",
       "url": "https://x.com/thsottiaux/status/2114588174249071102",
@@ -31,9 +39,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "X直接访问受限；第三方对同一预告的时间和分类存在差异，未采用其标注时间作为执行完成证据。",
+  "check_notes_zh": "X推文与回复直接读取仍返回403，公开转载中未见可核实的新完成帖。产品外观相关帖子与孤立的重置玩笑不视为新重置承诺。新增报道为记者个人到账观察，与全局完成确认分开记录。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-26T07:30:41.710Z"
+  "published_at": "2026-10-26T08:09:28.000Z"
 }
