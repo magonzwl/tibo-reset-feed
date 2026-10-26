@@ -32,5 +32,8 @@
     }
   ],
   "check_notes_zh": "X直接访问受限；第三方对同一预告的时间和分类存在差异，未采用其标注时间作为执行完成证据。",
-  "stale_after_seconds": 7200
+  "stale_after_seconds": 7200,
+  "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
+  "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
+  "published_at": "2026-10-26T07:30:41.710Z"
 }
