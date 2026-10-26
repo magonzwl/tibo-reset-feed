@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-26T08:09:28.000Z",
-  "next_check_due_at": "2026-10-26T09:09:28.000Z",
+  "checked_at": "2026-10-26T09:11:17.000Z",
+  "next_check_due_at": "2026-10-26T10:11:17.000Z",
   "source_health": "partial",
   "status": "announced",
-  "summary_zh": "Day 21 重置预告后出现实际到账反馈：PC Watch 的报道搜索索引称，记者本人账户约在北京时间10月26日14:00已应用重置。尚未核实到 Tibo 的新完成确认，不能据此确认所有账户均已到账；具体全局完成时间未知。",
+  "summary_zh": "仍有 Day 21 重置预告及此前已记录的个人账户到账报道；本次未发现可核实的新完成确认或可靠全局执行时间。X原帖访问受限，不能断言不存在新帖，也不能确认全部账户均已到账。",
   "expected_reset": null,
   "signals": [
     {
@@ -39,9 +39,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "X推文与回复直接读取仍返回403，公开转载中未见可核实的新完成帖。产品外观相关帖子与孤立的重置玩笑不视为新重置承诺。新增报道为记者个人到账观察，与全局完成确认分开记录。",
+  "check_notes_zh": "本次读取公开镜像中的近期帖子和回复：外观设置相关内容与孤立的重置玩笑不构成新的重置承诺。另有聚合页把同一Day 21原帖标为07:00 UTC重置完成，但其链接仍指向预告帖2114588174249071102，未提供独立完成帖，故不升级为已确认，也不采纳该时间。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-26T08:09:28.000Z"
+  "published_at": "2026-10-26T09:11:17.000Z"
 }
