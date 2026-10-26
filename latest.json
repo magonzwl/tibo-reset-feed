@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "source_account": "https://x.com/thsottiaux",
+  "checked_at": "2026-10-26T07:09:58.956Z",
+  "next_check_due_at": "2026-10-26T08:09:58.956Z",
+  "source_health": "partial",
+  "status": "announced",
+  "summary_zh": "本次检查仍只核实到第三方转载的 Day 21 当天重置预告，未获得新的原帖完成确认或可靠执行时间。X 直接读取仍受限，不能据此断言没有新帖。",
+  "expected_reset": null,
+  "signals": [
+    {
+      "summary_zh": "Day 21 帖子被公开消息汇总站转引为当天重置预告；该帖发布于北京时间 10月26日13:21。作者所说的当天不能直接等同北京时间当天。",
+      "url": "https://x.com/thsottiaux/status/2114588174249071102",
+      "event_at": "2026-10-26T05:21:22Z",
+      "classification": "announced",
+      "evidence_quality": "third_party_repost_unverified_original",
+      "evidence_source": "https://tibo.watch/",
+      "uncertainty": "原帖无法直接访问；转载时间/分类不一致。第三方列为重置不能代替完成确认，暂无可靠具体执行时间。",
+      "corroborating_sources": [
+        "https://tibo.watch/",
+        "https://tiboreset.com/r/2114588174249071102"
+      ]
+    },
+    {
+      "summary_zh": "历史记录：10月25日北京时间14:06的帖子被转载为上一轮已传播完成的确认。不能用这条旧确认判断10月26日已完成。",
+      "url": "https://x.com/thsottiaux/status/2114237083652882932",
+      "event_at": "2026-10-25T06:06:16Z",
+      "classification": "historical_confirmation",
+      "evidence_quality": "third_party_repost_unverified_original",
+      "evidence_source": "https://tibo.watch/",
+      "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
+    }
+  ],
+  "check_notes_zh": "X直接访问受限；第三方对同一预告的时间和分类存在差异，未采用其标注时间作为执行完成证据。",
+  "stale_after_seconds": 7200
+}

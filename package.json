@@ -1,0 +1,1 @@
+{"name":"tibo-reset-feed","version":"0.2.0","description":"Read public, evidence-labelled Codex reset signals","type":"module","bin":{"tibo-reset":"cli.mjs"},"engines":{"node":">=18"},"files":["cli.mjs","README.md","AGENTS.md"],"license":"UNLICENSED"}
