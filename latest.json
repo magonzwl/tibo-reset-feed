@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-26T21:21:38.000Z",
-  "next_check_due_at": "2026-10-26T22:21:38.000Z",
+  "checked_at": "2026-10-26T22:21:40.000Z",
+  "next_check_due_at": "2026-10-26T23:21:40.000Z",
   "source_health": "partial",
   "status": "unknown",
   "summary_zh": "新出现的 Day 22 帖子介绍 Terra 模型回归和相对6.1 Sol的2倍用量，属于产品/使用效率更新，不是额度重置预告。当前未获新一轮重置承诺或可靠时间；此前Day 21预告及个人到账报道仅作历史记录，不能据此判断后续不会额外重置。",
@@ -48,9 +48,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；可读镜像与索引仍以已记录的Day 22 Terra产品更新为最新可核实内容，没有新的重置承诺、完成帖、延期或可靠时间。2倍用量不解释成现有额度补满；历史Day 21到账反馈不视为Day 22新重置。第三方运营者完成标签与预测不当作Tibo新确认，最新回复/配图覆盖仍受访问与缓存限制。",
+  "check_notes_zh": "本次X原始回复页仍403，公开镜像/索引仍以Day 22 Terra更新为最新可核实相关文本，未获得新增重置承诺、完成确认或时间。第三方日历等待标签、投票和历史推算不作信号；模型2倍用量不作现有额度重置。此前Day 21账户观察保持历史记录，原帖与最新回复/配图覆盖仍受限。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-26T21:21:38.000Z"
+  "published_at": "2026-10-26T22:21:40.000Z"
 }
