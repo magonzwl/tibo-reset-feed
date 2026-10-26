@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-const url = 'https://raw.githubusercontent.com/magonzwl/tibo-reset-feed/main/latest.json';
+const url = 'https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json';
 try {
-  const response = await fetch(url, { signal: AbortSignal.timeout(20000), headers: { Accept: 'application/json' } });
+  const response = await fetch(url, { signal: AbortSignal.timeout(20000), headers: { Accept: 'application/vnd.github.raw+json' } });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const data = await response.json();
   if (data.schema_version !== '1.0' || !Array.isArray(data.signals)) throw new Error('Unsupported feed format');
@@ -14,3 +14,4 @@ try {
     for (const signal of data.signals) console.log(`- ${signal.summary_zh}\n  ${signal.url}`);
   }
 } catch (error) { console.error(`读取重置消息失败：${error.message}`); process.exitCode = 1; }
+
