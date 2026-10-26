@@ -1,13 +1,22 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-26T19:20:05.000Z",
-  "next_check_due_at": "2026-10-26T20:20:05.000Z",
+  "checked_at": "2026-10-26T20:22:33.000Z",
+  "next_check_due_at": "2026-10-26T21:22:33.000Z",
   "source_health": "partial",
-  "status": "announced",
-  "summary_zh": "仍有 Day 21 重置预告及此前已记录的个人账户到账报道；本次未发现可核实的新完成确认或可靠全局执行时间。X原帖访问受限，不能断言不存在新帖，也不能确认全部账户均已到账。",
+  "status": "unknown",
+  "summary_zh": "新出现的 Day 22 帖子介绍 Terra 模型回归和相对6.1 Sol的2倍用量，属于产品/使用效率更新，不是额度重置预告。当前未获新一轮重置承诺或可靠时间；此前Day 21预告及个人到账报道仅作历史记录，不能据此判断后续不会额外重置。",
   "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "Day 22 宣布 Terra 回归，并称其在API和订阅中相对6.1 Sol提供2倍用量。这里的2倍用量描述模型使用效率/配额待遇，没有承诺将现有额度清零或补满。",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "event_at": "2026-10-26T19:24:11.944Z",
+      "classification": "product_update_not_reset",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "evidence_source": "https://www.sotwe.com/thsottiaux",
+      "uncertainty": "原帖直接读取403；文本来自公开镜像，发布时间由帖ID推算并与转载日本时间04:24相符。没有全局重置或个人账户到账保证。"
+    },
     {
       "summary_zh": "PC Watch 记者在10月26日15:44日本时间发布的报道中称，本人环境约在日本时间15:00已应用重置，折合北京时间约14:00。这是单个账户的到账观察，不是全局完成确认。",
       "url": "https://pc.watch.impress.co.jp/docs/news/2151209.html",
@@ -39,9 +48,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次直接读取X回复页仍403；公开镜像、原帖转录与索引仍指向此前Day 21预告及旧回复，未出现可核实的新Day 22帖子、完成确认、延期或具体时间。第三方监控记录的更新时间、重复转载和用户要求重置的评论不视为作者新承诺。保留已有个人到账报道；索引缓存与原帖受限使最新活动覆盖不完整。",
+  "check_notes_zh": "新增Day 22全文在公开镜像可读，与另一公开追踪页的原帖链接和文本吻合，但这些转载不当作独立官方确认。该帖是模型产品更新，不将2倍用量解释为额度重置，也不保证今后不额外重置。原帖、回复和视频未能完整直接核实；检查覆盖仍为partial。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-26T19:20:05.000Z"
+  "published_at": "2026-10-26T20:22:33.000Z"
 }
