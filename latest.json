@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-26T16:15:07.000Z",
-  "next_check_due_at": "2026-10-26T17:15:07.000Z",
+  "checked_at": "2026-10-26T17:12:33.000Z",
+  "next_check_due_at": "2026-10-26T18:12:33.000Z",
   "source_health": "partial",
   "status": "announced",
   "summary_zh": "仍有 Day 21 重置预告及此前已记录的个人账户到账报道；本次未发现可核实的新完成确认或可靠全局执行时间。X原帖访问受限，不能断言不存在新帖，也不能确认全部账户均已到账。",
@@ -39,9 +39,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "北京时间已跨至10月27日，但美国太平洋时间仍为10月26日，不因跨日把Day 21旧预告当成新消息。本次X直接读取仍403；镜像/索引未提供可核实的新Day 22原帖、独立完成确认或新时间。新检索到的第三方完成页无法直接读取且摘要仍引用Day 21原句，不据此升级判断。保留已有个人到账报道，最新活动覆盖仍受限。",
+  "check_notes_zh": "本次X原始回复页仍返回403；公开镜像与索引未提供新的可核实完成帖、Day 22原帖或具体重置时间。第三方日历进入Day 22、条件性每日挑战规则或历史频率推算不代表新预告；此前Day 21个人到账报道已记录。源受限且索引可能缓存，未保证完整覆盖最新帖子、回复或配图。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-26T16:15:07.000Z"
+  "published_at": "2026-10-26T17:12:33.000Z"
 }
