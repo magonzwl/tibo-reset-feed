@@ -13,7 +13,7 @@ curl -fsS https://raw.githubusercontent.com/magonzwl/tibo-reset-feed/main/latest
 ## npx 命令（Node.js 18+）
 
 ```sh
-npx --yes https://api.github.com/repos/magonzwl/tibo-reset-feed/tarball/main --json
+npx --yes https://api.github.com/repos/magonzwl/tibo-reset-feed/tarball/cli-v1 --json
 ```
 
 去掉 `--json` 可看中文摘要。代码公开、无依赖、无安装脚本；包通过 GitHub 提供，没有发布到 npm registry。

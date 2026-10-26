@@ -8,6 +8,6 @@ status: unknown, hint, announced, confirmed, cancelled. expected_reset is null u
 
 The maintainer's Codex automation is scheduled hourly. Execution depends on the updater machine being awake/online, connected services and source availability; next_check_due_at is a target, not a guarantee. Reading this file does not schedule the consuming agent. An agent with scheduling support can check hourly and notify only on meaningful changes.
 
-Node 18+ command: `npx --yes https://api.github.com/repos/magonzwl/tibo-reset-feed/tarball/main --json`. This installs the public GitHub archive, not a similarly named npm registry package. CLI has no dependencies or install scripts. For reproducible code, pin the archive to a reviewed commit; the CLI still reads latest.json from main.
+Node 18+ command: `npx --yes https://api.github.com/repos/magonzwl/tibo-reset-feed/tarball/cli-v1 --json`. This installs the public GitHub archive, not a similarly named npm registry package. CLI has no dependencies or install scripts. For reproducible code, pin the archive to a reviewed commit; the CLI still reads latest.json from main.
 
 GitHub API alternative: GET https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json with Accept: application/vnd.github.raw+json. Without this header the API returns file metadata with Base64 content. Public API reads are rate limited by GitHub; no token is required.
