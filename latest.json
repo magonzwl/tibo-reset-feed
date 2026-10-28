@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T08:38:43Z",
-  "next_check_due_at": "2026-10-28T09:38:43Z",
+  "checked_at": "2026-10-28T09:48:23.000Z",
+  "next_check_due_at": "2026-10-28T10:48:23.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -18,11 +18,11 @@
     },
     {
       "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
-      "url": "https://www.sotwe.com/thsottiaux",
-      "event_at": null,
+      "url": "https://x.com/thsottiaux/status/2115273064481218829",
+      "event_at": "2026-10-28T02:42:53Z",
       "classification": "announced",
       "evidence_quality": "public_mirror_original_unavailable",
-      "uncertainty": "未取得原帖独立链接；期限回复紧邻公告，仍待原帖串核实。",
+      "uncertainty": "原帖403，文本来自镜像；发布时间来自公开索引，期限有PST/PDT一小时歧义。",
       "deadline_source_url": "https://x.com/thsottiaux/status/2115273253711409208"
     },
     {
@@ -74,9 +74,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次公开镜像最新仍是已通知的And it's done，未见新一轮可靠重置承诺或时间变化。补得该完成确认原帖链接与06:29 UTC（北京时间14:29）分钟精度时间，直接读取仍403。明日好消息不等于再重置；全部回复、引用与配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页及补得的Day23公告原帖仍403。镜像最新仍为已通知的完成确认，未发现新一轮可靠重置预告、较强暗示或时间变化。补得Day23公告独立链接；第三方误将早先has landed自动分类为重置，不作为独立完成证据。明日好消息不等于明日重置，全部回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T08:38:43Z"
+  "published_at": "2026-10-28T09:48:23.000Z"
 }
