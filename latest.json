@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T06:41:15Z",
-  "next_check_due_at": "2026-10-28T07:41:15Z",
+  "checked_at": "2026-10-28T07:43:51.000Z",
+  "next_check_due_at": "2026-10-28T08:43:51.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -74,9 +74,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "And it's done与重置期限帖的引用关系提供完成上下文；See you tomorrow for some good news不等于明日再重置，不设下一轮时间。此前has landed短链仍未展开，不以第三方标签作为独立确认。X受限，回复/配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像顶部仍为已通知的And it's done及所引用的重置期限帖，未见新增可靠重置承诺、取消或时间变化。See you tomorrow for some good news仍不解释为下一轮重置。镜像与索引可能延迟，全部回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T06:41:15Z"
+  "published_at": "2026-10-28T07:43:51.000Z"
 }
