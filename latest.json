@@ -1,18 +1,21 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T05:40:40Z",
-  "next_check_due_at": "2026-10-28T06:40:40Z",
+  "checked_at": "2026-10-28T06:41:15Z",
+  "next_check_due_at": "2026-10-28T07:41:15Z",
   "source_health": "partial",
-  "status": "announced",
-  "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
-  "expected_reset": {
-    "original_expression": "Lands by midnight PST.",
-    "beijing_deadline_if_pdt": "2026-10-28T15:00:00+08:00",
-    "beijing_deadline_if_strict_pst": "2026-10-28T16:00:00+08:00",
-    "uncertainty": "作者使用PST但当地仍为PDT，存在一小时歧义；不是完成确认。"
-  },
+  "status": "confirmed",
+  "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
+  "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
+      "url": "https://www.sotwe.com/thsottiaux",
+      "event_at": null,
+      "classification": "confirmed",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "uncertainty": "镜像展示确认引用重置期限帖，原帖直接访问403；未取得确认帖独立链接，不能保证每个账户到账。"
+    },
     {
       "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
       "url": "https://www.sotwe.com/thsottiaux",
@@ -71,9 +74,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "X回复页及已取得的期限原帖2115273253711409208仍403。公开镜像新增Taking notes等短回复，没有可靠重置上下文；has landed短链所指仍未核实，不能当完成确认。第三方页面关联midnight PST回复与Day23公告，补得期限原帖链接；预告、北京时间15:00/16:00截止歧义均未改变。镜像和索引可能延迟，全部回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "And it's done与重置期限帖的引用关系提供完成上下文；See you tomorrow for some good news不等于明日再重置，不设下一轮时间。此前has landed短链仍未展开，不以第三方标签作为独立确认。X受限，回复/配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T05:40:40Z"
+  "published_at": "2026-10-28T06:41:15Z"
 }
