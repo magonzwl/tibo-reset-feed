@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T03:38:12Z",
-  "next_check_due_at": "2026-10-28T04:38:12Z",
+  "checked_at": "2026-10-28T04:41:14Z",
+  "next_check_due_at": "2026-10-28T05:41:14Z",
   "source_health": "partial",
   "status": "announced",
   "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
@@ -70,9 +70,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "X回复页403；本次公开镜像新增Day23及紧邻的期限回复。原帖独立链接和父子关系尚未取得，时间仅镜像约1小时前；保留来源限制。",
+  "check_notes_zh": "新增镜像文本为短链Fgy0dBAHsJ加has landed，但短链无法展开，所指对象/父帖未核实，不能据此确认重置完成。另有lend me some of your strength, there is still time及日常短回复，未获取可靠父帖上下文，不升级判断。Day23预告与midnight PST期限仍保留，尚无可核实完成确认。X回复页403，镜像/索引覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T03:38:12Z"
+  "published_at": "2026-10-28T04:41:14Z"
 }
