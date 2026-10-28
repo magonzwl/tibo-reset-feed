@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T13:48:55.000Z",
-  "next_check_due_at": "2026-10-28T14:48:55.000Z",
+  "checked_at": "2026-10-28T14:53:27Z",
+  "next_check_due_at": "2026-10-28T15:53:27Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -74,9 +74,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；检查公开镜像时间线及搜索索引，最新仍为已通知的Day23完成确认，未发现新增可靠预告、较强暗示或时间变化。Day24日历等待状态不作为作者新帖证据；此前明日好消息未指明重置，下一轮时间未知。镜像和索引可能延迟，回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；检查公开镜像及另一公开按日归档的10月28日10条可读文本，最新仍是06:29 UTC的既有完成确认，没有新增可靠预告、较强暗示或时间变化。其他短回复缺少新重置条件，不采用第三方重置相关标签作为证据。Day24等待状态不代表新公告，下一轮时间未知。回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T13:48:55.000Z"
+  "published_at": "2026-10-28T14:53:27Z"
 }
