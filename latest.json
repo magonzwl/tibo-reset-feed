@@ -1,13 +1,26 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T02:35:28.000Z",
-  "next_check_due_at": "2026-10-28T03:35:28.000Z",
+  "checked_at": "2026-10-28T03:38:12Z",
+  "next_check_due_at": "2026-10-28T04:38:12Z",
   "source_health": "partial",
-  "status": "unknown",
-  "summary_zh": "新出现的 Day 22 帖子介绍 Terra 模型回归和相对6.1 Sol的2倍用量，属于产品/使用效率更新，不是额度重置预告。当前未获新一轮重置承诺或可靠时间；此前Day 21预告及个人到账报道仅作历史记录，不能据此判断后续不会额外重置。",
-  "expected_reset": null,
+  "status": "announced",
+  "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
+  "expected_reset": {
+    "original_expression": "Lands by midnight PST.",
+    "beijing_deadline_if_pdt": "2026-10-28T15:00:00+08:00",
+    "beijing_deadline_if_strict_pst": "2026-10-28T16:00:00+08:00",
+    "uncertainty": "作者使用PST但当地仍为PDT，存在一小时歧义；不是完成确认。"
+  },
   "signals": [
+    {
+      "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
+      "url": "https://www.sotwe.com/thsottiaux",
+      "event_at": null,
+      "classification": "announced",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "uncertainty": "未取得原帖独立链接；期限回复紧邻公告，仍待原帖串核实。"
+    },
     {
       "summary_zh": "回复BrenBuilds称“A sign of great things to come”（好事将至的迹象）。缺少可靠父帖关联，不能判断为额度重置预告；也可能指未来模型/产品表现。",
       "url": "https://x.com/thsottiaux/status/2115148258372964831",
@@ -57,9 +70,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次检查覆盖自上次记录以来可获取的镜像时间线和搜索索引；X回复页仍403。镜像最新仍是“A sign of great things to come”，未见后续明确解释或重置条件，其弱暗示判断不变。未发现新的可靠重置预告、完成确认或时间变化；Day23进度和第三方预测窗口/概率不作为作者承诺。镜像与索引可能延迟，无法完整核查全部回复、引用、配图，不能据此断言期间没有新帖。",
+  "check_notes_zh": "X回复页403；本次公开镜像新增Day23及紧邻的期限回复。原帖独立链接和父子关系尚未取得，时间仅镜像约1小时前；保留来源限制。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T02:35:28.000Z"
+  "published_at": "2026-10-28T03:38:12Z"
 }
