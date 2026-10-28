@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T04:41:14Z",
-  "next_check_due_at": "2026-10-28T05:41:14Z",
+  "checked_at": "2026-10-28T05:40:40Z",
+  "next_check_due_at": "2026-10-28T06:40:40Z",
   "source_health": "partial",
   "status": "announced",
   "summary_zh": "Day23明确预告今天重置，先以iCloud插件发布开玩笑再转折说明重置。镜像另显示Lands by midnight PST，折合北京时间10月28日15:00前（按当地PDT）或16:00前（严格PST）。尚未确认完成。",
@@ -19,7 +19,8 @@
       "event_at": null,
       "classification": "announced",
       "evidence_quality": "public_mirror_original_unavailable",
-      "uncertainty": "未取得原帖独立链接；期限回复紧邻公告，仍待原帖串核实。"
+      "uncertainty": "未取得原帖独立链接；期限回复紧邻公告，仍待原帖串核实。",
+      "deadline_source_url": "https://x.com/thsottiaux/status/2115273253711409208"
     },
     {
       "summary_zh": "回复BrenBuilds称“A sign of great things to come”（好事将至的迹象）。缺少可靠父帖关联，不能判断为额度重置预告；也可能指未来模型/产品表现。",
@@ -70,9 +71,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "新增镜像文本为短链Fgy0dBAHsJ加has landed，但短链无法展开，所指对象/父帖未核实，不能据此确认重置完成。另有lend me some of your strength, there is still time及日常短回复，未获取可靠父帖上下文，不升级判断。Day23预告与midnight PST期限仍保留，尚无可核实完成确认。X回复页403，镜像/索引覆盖不完整。",
+  "check_notes_zh": "X回复页及已取得的期限原帖2115273253711409208仍403。公开镜像新增Taking notes等短回复，没有可靠重置上下文；has landed短链所指仍未核实，不能当完成确认。第三方页面关联midnight PST回复与Day23公告，补得期限原帖链接；预告、北京时间15:00/16:00截止歧义均未改变。镜像和索引可能延迟，全部回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T04:41:14Z"
+  "published_at": "2026-10-28T05:40:40Z"
 }
