@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T15:48:51.000Z",
-  "next_check_due_at": "2026-10-28T16:48:51.000Z",
+  "checked_at": "2026-10-28T16:56:53Z",
+  "next_check_due_at": "2026-10-28T17:56:53Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -72,11 +72,19 @@
       "evidence_quality": "third_party_repost_unverified_original",
       "evidence_source": "https://tibo.watch/",
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
+    },
+    {
+      "summary_zh": "历史消歧：先前has landed短链被新镜像展开为poteto.com；后续3M浏览量帖引用它，属于网站话题，不作为额度重置证据。",
+      "url": "https://x.com/thsottiaux/status/2115473170279080149",
+      "event_at": "2026-10-28T15:58:00Z",
+      "classification": "not_reset_context_clarified",
+      "evidence_quality": "search_index_mirror_original_unavailable",
+      "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；阅读公开镜像可获取时间线及搜索结果，最新仍为Day23完成确认及此前短回复。未发现本检查区间新增可靠重置预告、较强暗示、取消延期或时间变化。Day24日历与旧帖不代表新承诺，下一轮时间未知。镜像/索引可能延迟，全部回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "新增两条：Pretty wild that this site got 3M views引用先前has landed；新搜索镜像展开显示其为poteto.com网站，故该has landed不是额度重置确认，第三方此前标签不可信。If only回复的是用户猜测Pro额度政策撤回，不是重置承诺。均未提供新重置时间。本轮完成仍依据And it's done引用期限帖，结论不变。X403，原帖和父帖直接核查受限。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T15:48:51.000Z"
+  "published_at": "2026-10-28T16:56:53Z"
 }
