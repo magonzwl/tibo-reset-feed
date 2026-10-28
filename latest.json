@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-28T17:55:03.000Z",
-  "next_check_due_at": "2026-10-28T18:55:03.000Z",
+  "checked_at": "2026-10-28T18:54:35.000Z",
+  "next_check_due_at": "2026-10-28T19:54:35.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -82,9 +82,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍是已检查的If only及网站3M浏览量帖，没有新增可靠重置预告、较强暗示或时间变化。前者涉及用户猜测Pro额度政策，后者引用poteto.com网站话题，不判为新重置。Day23完成确认保持，下一轮时间未知。镜像及索引可能延迟，全部回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像与搜索索引最新仍是已检查的If only及网站浏览量话题。未发现新一轮可靠预告、较强暗示、取消延期或时间变化；Day23完成判断保持，明日好消息不等于新重置。Day24日历计数不作为新公告证据。镜像/索引可能延迟，回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-28T17:55:03.000Z"
+  "published_at": "2026-10-28T18:54:35.000Z"
 }
