@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-27T20:35:00.000Z",
-  "next_check_due_at": "2026-10-27T21:35:00.000Z",
+  "checked_at": "2026-10-28T02:35:28.000Z",
+  "next_check_due_at": "2026-10-28T03:35:28.000Z",
   "source_health": "partial",
   "status": "unknown",
   "summary_zh": "新出现的 Day 22 帖子介绍 Terra 模型回归和相对6.1 Sol的2倍用量，属于产品/使用效率更新，不是额度重置预告。当前未获新一轮重置承诺或可靠时间；此前Day 21预告及个人到账报道仅作历史记录，不能据此判断后续不会额外重置。",
@@ -57,9 +57,9 @@
       "uncertainty": "原帖当前无法直接访问；只作历史上下文。"
     }
   ],
-  "check_notes_zh": "本次公开镜像顶部仍为“A sign of great things to come”，搜索索引补得原帖链接及18:26 UTC时间（北京时间10月28日02:26）；原帖403，另一镜像全文不可读，父帖仍未可靠核实。回复可指未来产品能力或一般鼓励，没有重置条件或执行时间，保持弱暗示。第三方将其自动标为Possible global reset并给出35%不构成独立证据，未采纳。未发现新的可靠重置预告、完成确认或时间变化；回复、引用、配图覆盖不完整。",
+  "check_notes_zh": "本次检查覆盖自上次记录以来可获取的镜像时间线和搜索索引；X回复页仍403。镜像最新仍是“A sign of great things to come”，未见后续明确解释或重置条件，其弱暗示判断不变。未发现新的可靠重置预告、完成确认或时间变化；Day23进度和第三方预测窗口/概率不作为作者承诺。镜像与索引可能延迟，无法完整核查全部回复、引用、配图，不能据此断言期间没有新帖。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-27T20:35:00.000Z"
+  "published_at": "2026-10-28T02:35:28.000Z"
 }
