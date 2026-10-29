@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T13:10:01.000Z",
-  "next_check_due_at": "2026-10-29T14:10:01.000Z",
+  "checked_at": "2026-10-29T14:14:21.000Z",
+  "next_check_due_at": "2026-10-29T15:14:21.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -99,9 +99,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为套餐政策及网站短回复，搜索未取得Day25可靠重置预告或时间变化。补得旧回复父帖：A sign of great things to come针对Terra修复代码的成本表现；Interesting针对Terra推理速度；Lore accurate tibo针对Terra绘制作者肖像。均属模型表现或玩笑，不作为重置信号。下一轮重置时间未知；镜像和索引可能延迟，回复、引用和配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为Low, but not zero及此前网站、试用回复，前者父帖明确讨论套餐政策。搜索Day25及10月29日信息未取得新的可靠重置预告、较强暗示或执行时间变化。Day24短信dot产品更新不变，下一轮重置时间未知。镜像和索引可能延迟，回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T13:10:01.000Z"
+  "published_at": "2026-10-29T14:14:21.000Z"
 }
