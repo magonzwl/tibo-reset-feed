@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T02:04:36Z",
-  "next_check_due_at": "2026-10-29T03:04:36Z",
+  "checked_at": "2026-10-29T03:05:05.000Z",
+  "next_check_due_at": "2026-10-29T04:05:05.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -90,9 +90,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "新增Day24镜像帖介绍通过短信向dot发送任务、转发内容、语音留言和Siri指令，引用官方iMessage/RCS预览消息。属于产品更新，未承诺额度重置或补满。此前Chat/Work整合澄清仍是产品话题；Day23完成判断保持，下一轮重置时间未知。X回复页仍403，原帖独立链接及全部回复/引用/配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为Day24短信联系dot产品更新，搜索未发现新增可靠重置预告、较强暗示、取消延期或时间变化。第三方仍有把poteto网站has landed误判为重置的记录，未采纳。Day23完成判断保持，下一轮时间未知；镜像/索引可能延迟，回复、引用及配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T02:04:36Z"
+  "published_at": "2026-10-29T03:05:05.000Z"
 }
