@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T17:19:44.000Z",
-  "next_check_due_at": "2026-10-29T18:19:44.000Z",
+  "checked_at": "2026-10-29T18:19:51.000Z",
+  "next_check_due_at": "2026-10-29T19:19:51.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "Day25宣布Pro100/200/500及Business Premium用量上限翻倍，当日生效；明确取消Pro200额度下调，称其Work/Codex用量维持现状。这是额度政策调整，未宣布新一轮重置；下一轮重置时间未知。",
@@ -109,9 +109,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "新增Day25额度政策公告及后续玩笑、Yes回复；父帖和引用上下文支持额度扩容而非重置。Bring it on回复的是poteto的day28/新域名话题；Theo回复针对Terra体验，不作为重置信号。X原帖仍403，镜像覆盖可能不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为已检查的Pro500用量50倍Yes回复及Day25额度政策公告，检索补充镜像正文一致。The Reset Company到The Token Company玩笑对应额度扩容，没有新增重置承诺或可靠时间；不采用把Day25扩容标记为重置的第三方分类。下一轮重置时间未知；镜像及索引可能延迟，回复、引用与配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T17:19:44.000Z"
+  "published_at": "2026-10-29T18:19:51.000Z"
 }
