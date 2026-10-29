@@ -1,13 +1,23 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T16:14:52.000Z",
-  "next_check_due_at": "2026-10-29T17:14:52.000Z",
+  "checked_at": "2026-10-29T17:19:44.000Z",
+  "next_check_due_at": "2026-10-29T18:19:44.000Z",
   "source_health": "partial",
   "status": "confirmed",
-  "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
+  "summary_zh": "Day25宣布Pro100/200/500及Business Premium用量上限翻倍，当日生效；明确取消Pro200额度下调，称其Work/Codex用量维持现状。这是额度政策调整，未宣布新一轮重置；下一轮重置时间未知。",
   "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "Day25宣布Pro100/200/500及Business Premium用量上限翻倍，当日生效；明确取消Pro200额度下调，称其Work/Codex用量维持现状。这是额度政策调整，未宣布新一轮重置；下一轮重置时间未知。",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "event_at": "2026-10-29T16:56:07.179Z",
+      "classification": "quota_policy_update_not_reset",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "evidence_source": "https://zamantika.com/fr/thsottiaux/status/2115850175868727621",
+      "uncertainty": "原帖403，正文及后续回复由公开镜像取得；时间由帖子ID推算。effective today指作者10月29日当地日期，未给具体到账时刻。不能将翻倍理解为已用额度补满，也不能保证个人账户即时生效。",
+      "context_zh": "后续The Reset Company到The Token Company的玩笑对应额度扩容；对Pro500是否50倍用量的询问答Yes。未明确Plus新增待遇，也未承诺终止未来重置。"
+    },
     {
       "summary_zh": "Low, but not zero回复的是取消200美元套餐额度减半的可能性，不能解释为下一轮额度重置概率。",
       "url": "https://x.com/thsottiaux/status/2115649073302904875",
@@ -99,9 +109,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像顶部仍为已核实讨论套餐政策的Low, but not zero，未取得新增帖子。检索Day25及10月29日重置内容未发现新的可靠预告、较强暗示或执行时间变化；不采用第三方统计预测或将网站has landed算作重置。下一轮重置时间未知。镜像及索引可能延迟，回复、引用与配图覆盖不完整。",
+  "check_notes_zh": "新增Day25额度政策公告及后续玩笑、Yes回复；父帖和引用上下文支持额度扩容而非重置。Bring it on回复的是poteto的day28/新域名话题；Theo回复针对Terra体验，不作为重置信号。X原帖仍403，镜像覆盖可能不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T16:14:52.000Z"
+  "published_at": "2026-10-29T17:19:44.000Z"
 }
