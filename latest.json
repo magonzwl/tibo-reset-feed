@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T12:14:03.000Z",
-  "next_check_due_at": "2026-10-29T13:14:03.000Z",
+  "checked_at": "2026-10-29T13:10:01.000Z",
+  "next_check_due_at": "2026-10-29T14:10:01.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
@@ -43,13 +43,13 @@
       "deadline_source_url": "https://x.com/thsottiaux/status/2115273253711409208"
     },
     {
-      "summary_zh": "回复BrenBuilds称“A sign of great things to come”（好事将至的迹象）。缺少可靠父帖关联，不能判断为额度重置预告；也可能指未来模型/产品表现。",
+      "summary_zh": "A sign of great things to come回复的是用户比较Terra修复应用漏洞的成本表现，语境支持模型表现评价，不是额度重置预告。",
       "url": "https://x.com/thsottiaux/status/2115148258372964831",
       "event_at": "2026-10-27T18:26:00Z",
-      "classification": "weak_hint_unsubstantiated",
+      "classification": "not_reset_context_clarified",
       "evidence_quality": "public_mirror_and_search_index_original_unavailable",
-      "evidence_source": "https://teapawt.net/thsottiaux/status/2115148258372964831",
-      "uncertainty": "时间为搜索索引所示分钟精度；原帖403，父帖未核实，没有可靠重置时间。"
+      "evidence_source": "https://zamantika.com/fr/profile/thsottiaux",
+      "uncertainty": "父帖关联由公开镜像补得，X原帖仍不可读；不据用户测试断言模型成本或能力。"
     },
     {
       "summary_zh": "Day 22 宣布 Terra 回归，并称其在API和订阅中相对6.1 Sol提供2倍用量。这里的2倍用量描述模型使用效率/配额待遇，没有承诺将现有额度清零或补满。",
@@ -99,9 +99,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X账号及短回复原帖仍403；公开镜像未出现新的时间线内容。补得Low, but not zero父帖：询问取消200美元套餐额度减半的可能性，属于套餐政策讨论，不是重置概率。未取得Day25新重置预告或可靠执行时间，下一轮时间未知。镜像及搜索索引可能延迟，回复、引用和配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为套餐政策及网站短回复，搜索未取得Day25可靠重置预告或时间变化。补得旧回复父帖：A sign of great things to come针对Terra修复代码的成本表现；Interesting针对Terra推理速度；Lore accurate tibo针对Terra绘制作者肖像。均属模型表现或玩笑，不作为重置信号。下一轮重置时间未知；镜像和索引可能延迟，回复、引用和配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T12:14:03.000Z"
+  "published_at": "2026-10-29T13:10:01.000Z"
 }
