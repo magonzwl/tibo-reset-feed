@@ -1,13 +1,22 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T11:08:45.000Z",
-  "next_check_due_at": "2026-10-29T12:08:45.000Z",
+  "checked_at": "2026-10-29T12:14:03.000Z",
+  "next_check_due_at": "2026-10-29T13:14:03.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
   "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "Low, but not zero回复的是取消200美元套餐额度减半的可能性，不能解释为下一轮额度重置概率。",
+      "url": "https://x.com/thsottiaux/status/2115649073302904875",
+      "event_at": "2026-10-29T03:37:00Z",
+      "classification": "not_reset_context_clarified",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "evidence_source": "https://zamantika.com/fr/profile/thsottiaux",
+      "uncertainty": "原帖403；父帖关联由公开镜像呈现。只作语境消歧，不据用户问题断言套餐政策事实。"
+    },
     {
       "summary_zh": "Day24介绍通过短信联系dot、分享内容和语音留言，属于产品更新，没有新重置承诺。",
       "url": "https://x.com/thsottiaux/status/2115622002581188681",
@@ -90,9 +99,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像顶部仍为已检查的Low, but not zero、Pro试用及Muse网站回复，搜索Day25和10月29日信息未取得新的可靠重置预告、较强暗示或期限变化。短回复缺少核实父帖，不能作为重置概率或承诺；Day24短信dot产品更新不变，下一轮时间未知。镜像和索引可能延迟，回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "本次X账号及短回复原帖仍403；公开镜像未出现新的时间线内容。补得Low, but not zero父帖：询问取消200美元套餐额度减半的可能性，属于套餐政策讨论，不是重置概率。未取得Day25新重置预告或可靠执行时间，下一轮时间未知。镜像及搜索索引可能延迟，回复、引用和配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T11:08:45.000Z"
+  "published_at": "2026-10-29T12:14:03.000Z"
 }
