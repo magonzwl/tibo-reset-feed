@@ -1,13 +1,21 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T01:09:04.000Z",
-  "next_check_due_at": "2026-10-29T02:09:04.000Z",
+  "checked_at": "2026-10-29T02:04:36Z",
+  "next_check_due_at": "2026-10-29T03:04:36Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
   "expected_reset": null,
   "signals": [
+    {
+      "summary_zh": "Day24介绍通过短信联系dot、分享内容和语音留言，属于产品更新，没有新重置承诺。",
+      "url": "https://www.sotwe.com/thsottiaux",
+      "event_at": null,
+      "classification": "product_update_not_reset",
+      "evidence_quality": "public_mirror_original_unavailable",
+      "uncertainty": "镜像显示约14分钟前，未取得独立原帖链接与可靠精确时间。"
+    },
     {
       "summary_zh": "公开镜像新增And it's done，且引用Lands by midnight PST重置期限帖，上下文支持Day23重置已完成。北京时间10月28日14:41检查时已出现该确认；精确发布时间未可靠取得。",
       "url": "https://x.com/thsottiaux/status/2115330127886463244",
@@ -82,9 +90,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像最新仍为已检查的Chat/Work能力整合尚未推出澄清，引用用户整合传闻，不能解释为重置延期或取消。搜索未发现新一轮可靠预告、较强暗示或时间变化；Day23完成判断保持，下一轮时间未知。镜像/索引可能延迟，回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "新增Day24镜像帖介绍通过短信向dot发送任务、转发内容、语音留言和Siri指令，引用官方iMessage/RCS预览消息。属于产品更新，未承诺额度重置或补满。此前Chat/Work整合澄清仍是产品话题；Day23完成判断保持，下一轮重置时间未知。X回复页仍403，原帖独立链接及全部回复/引用/配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T01:09:04.000Z"
+  "published_at": "2026-10-29T02:04:36Z"
 }
