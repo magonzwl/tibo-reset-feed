@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-29T19:18:56.000Z",
-  "next_check_due_at": "2026-10-29T20:18:56.000Z",
+  "checked_at": "2026-10-29T20:20:29.000Z",
+  "next_check_due_at": "2026-10-29T21:20:29.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "Day25宣布Pro100/200/500及Business Premium用量上限翻倍，当日生效；明确取消Pro200额度下调，称其Work/Codex用量维持现状。这是额度政策调整，未宣布新一轮重置；下一轮重置时间未知。",
@@ -109,9 +109,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403，Zamantika超时，改读Sotwe可获取时间线。最新仍为已检查的Pro500用量50倍Yes回复、Token Company玩笑与Day25额度政策公告；未取得新的重置预告、较强暗示或时间变化。Day25扩容不等于用量补满，不采用第三方将其标为重置的分类。下一轮时间未知；镜像、搜索索引可能延迟，回复、引用与配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像新增Send your kind feedback to this person，引用Andrew关于双倍用量恢复及应用简化、性能改进冲刺的帖子。上下文属于已通知的Day25额度政策及产品改进，不是重置预告或完成确认。其余可获取帖子与前次一致，下一轮重置时间未知。镜像、索引可能延迟，回复、引用和配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-29T19:18:56.000Z"
+  "published_at": "2026-10-29T20:20:29.000Z"
 }
