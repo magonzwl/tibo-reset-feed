@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "source_account": "https://x.com/thsottiaux",
-  "checked_at": "2026-10-30T12:01:56.000Z",
-  "next_check_due_at": "2026-10-30T13:01:56.000Z",
+  "checked_at": "2026-10-30T13:00:55.000Z",
+  "next_check_due_at": "2026-10-30T14:00:55.000Z",
   "source_health": "partial",
   "status": "confirmed",
   "summary_zh": "Day25宣布Pro100/200/500及Business Premium用量上限翻倍，当日生效；明确取消Pro200额度下调，称其Work/Codex用量维持现状。这是额度政策调整，未宣布新一轮重置；下一轮重置时间未知。",
@@ -109,9 +109,9 @@
       "evidence_source": "https://teapawt.net/thsottiaux/status/2115473170279080149"
     }
   ],
-  "check_notes_zh": "本次X回复页仍403；公开镜像可获取时间线没有新增内容，最新仍为涉及侧边聊天保存的No hype, just shipping及此前产品建议、额度政策和用户互动回复。未取得新的可靠重置预告、较强暗示或执行时间，下一轮时间未知。镜像可能延迟，回复、引用及配图覆盖不完整。",
+  "check_notes_zh": "本次X回复页仍403；公开镜像可获取时间线与前次相同，最新仍为侧边聊天保存语境的No hype, just shipping。此前额度政策、产品建议及用户互动没有新增重置承诺、较强暗示或时间变化；下一轮重置时间未知。镜像可能延迟，回复、引用和配图覆盖不完整。",
   "stale_after_seconds": 7200,
   "feed_api_url": "https://api.github.com/repos/magonzwl/tibo-reset-feed/contents/latest.json",
   "agent_instructions_url": "https://github.com/magonzwl/tibo-reset-feed/blob/main/AGENTS.md",
-  "published_at": "2026-10-30T12:01:56.000Z"
+  "published_at": "2026-10-30T13:00:55.000Z"
 }
